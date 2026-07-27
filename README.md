@@ -1,4 +1,4 @@
-# FocusStake — Landing Page
+# FocusStake: Landing Page
 
 The marketing landing page for **FocusStake**, a single-page static site (`index.html`).
 
